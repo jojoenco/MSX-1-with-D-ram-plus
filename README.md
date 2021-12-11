@@ -1,3 +1,4 @@
+
 # MSX-1-with-D-ram-plus
 MSX 1 with D-ram plus floppy and 3e Slot
 
@@ -11,3 +12,6 @@ I made the connections for the power of the floppy bigger but i'm not sure it wi
 I removed the Relay and the Dinn connection for the cassete (but there is still a 3,5" jack for cassete)
 I also removed the Printer port.
 All this to make room for the rest of the parts.
+
+The PCB came in (a quick not that sharp Foto)
+![MSX PCB with Floppy](https://user-images.githubusercontent.com/89305963/145672760-9142fed7-afdc-4da3-bcba-611a2bffb9a4.jpg)
